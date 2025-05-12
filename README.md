@@ -61,4 +61,5 @@ Russie : avec 145 millions d'habitants, elle recense 24 millions de cas, 403 000
 ✅ Conclusion
 Ces chiffres suggèrent que d'autres facteurs que la taille de la population influencent fortement l'impact de la pandémie : efficacité des systèmes de santé, politiques de dépistage, âge moyen de la population, transparence des données, ou encore mesures de confinement. Ainsi, comparer les pays uniquement par population n’est pas suffisant pour comprendre la gravité réelle de la pandémie dans chaque pays.
 
-
+### 📬 Contact
+Tu peux me contacter via ingridbeukam@gmail.com ou LinkedIn https://www.linkedin.com/in/ingrid-madjougang-beukam/ pour toute question ou suggestion.
